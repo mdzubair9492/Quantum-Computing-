@@ -1,2 +1,6 @@
-Here, all the lab files are manually modified. They are not always the same with the course lab files. I have customized the code with my own understanding and own ease and I have tried to put the best and efficient 
-code possible.
+Here, I have added customized codes from,
+
+1. QClass 23/24
+2. Qubit by Qubit from the Coding School
+3. Edx Intro to QC course
+4. IBM Quantum Explorer event
